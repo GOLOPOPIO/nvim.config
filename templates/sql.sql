@@ -1,0 +1,6 @@
+-- {{name}}
+BEGIN;
+
+{{cursor}}
+
+COMMIT;
